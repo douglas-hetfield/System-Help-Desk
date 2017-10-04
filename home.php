@@ -49,7 +49,7 @@
                             <option value="contabil">Contábil</option>
                             <option value="operacao">Operação</option>
                             <option value="seguranca do trabalho">Segurança do Trabalho</option>
-                            <option value="auxiliar servicos gerais">Auxiliar de Serviços Gerais</option>
+                            <option value="auxiliar servicos gerais">Auxiliar de Serviços Gerais.</option>
                         </select>
                         
                     </div>
